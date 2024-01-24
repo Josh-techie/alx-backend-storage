@@ -1,7 +1,3 @@
-# alx-backend-storage
-Explore advanced 
-
-
 <p align="center">
 <img src ="https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png">
 </p>
