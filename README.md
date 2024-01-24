@@ -12,7 +12,7 @@
 
 ## About
 
-- This repository is a comprehensive compilation serving as a resource hub for storage management concepts, offering solutions tailored for the ALX Africa Intranet project's MySQL Advanced requirements. Dive into topics such as `SQL`, `database optimization`, `stored procedures`, `triggers`, and more to bolster your skills in comprehensive storage solutions. This repository is an integral part of the Full Stack Software Engineering course, a 3-month-long short specialization focused on the backend, conducted in collaboration with [Holberton School](https://www.holbertonschool.com/). Join us on a journey to master advanced MySQL concepts and enhance your capabilities in backend development.
+- This repository is a comprehensive compilation serving as a resource hub for storage management concepts, offering solutions tailored for the [ALX Africa](https://www.alxafrica.com/) Intranet project's MySQL Advanced requirements. Dive into topics such as `SQL`, `database optimization`, `stored procedures`, `triggers`, and more to bolster your skills in comprehensive storage solutions. This repository is an integral part of the Full Stack Software Engineering course, a 3-month-long short specialization focused on the backend, conducted in collaboration with [Holberton School](https://www.holbertonschool.com/). Join us on a journey to master advanced MySQL concepts and enhance your capabilities in backend development.
 
 ---
 
