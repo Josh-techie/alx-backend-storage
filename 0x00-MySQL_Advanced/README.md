@@ -4,15 +4,13 @@
 
 ---
 
-# Project: 0x00. MySQL Advanced | ALX Africa Intranet
+# MySQL Advanced:
 
-## Overview
-
-- This project, titled "0x00. MySQL advanced," is designed to enhance your proficiency in MySQL, focusing on advanced concepts and practical applications. Throughout the project, you will delve into various aspects of MySQL, such as creating tables with constraints, optimizing queries using indexes, implementing stored procedures, functions, views, and triggers in MySQL.
+- This project, titled `0x00. MySQL advanced`, is designed to enhance your proficiency in MySQL, focusing on advanced concepts and practical applications. Throughout the project, you will delve into various aspects of MySQL, such as creating tables with constraints, optimizing queries using indexes, implementing stored procedures, functions, views, and triggers in MySQL.
 
 ---
 
-## Resources
+## Resources:
 
 To successfully navigate through this project, refer to the following resources:
 
@@ -30,7 +28,7 @@ To successfully navigate through this project, refer to the following resources:
 
 ---
 
-## Learning Objectives
+## Learning Objectives:
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
@@ -41,11 +39,11 @@ General
 - What is and how to implement views in MySQL
 - What is and how to implement triggers in MySQL
 
-## Tasks
+## Tasks:
 
 ---
 
-## Author
+## Author:
 
 - [`@Josh-techie`]() | Software Engineer Student
 
