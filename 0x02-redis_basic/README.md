@@ -1,5 +1,5 @@
 <p align="center">
-<img src ="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/40eab4627f1bea7dfe5e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240125T000416Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=747a4a00cde7c14cc98159d1939bd075cb805d939469cf7b1c300073328b9a7f">
+<img src ="https://logos-download.com/wp-content/uploads/2020/06/Redis_Logo.png">
 </p>
 
 ---
