@@ -1,4 +1,8 @@
-![Tweet](https://github.com/Josh-techie/alx-backend-storage/blob/master/Assets/ee85b9f67c384e29525b.png)
+<p align="center">
+<img src ="https://th.bing.com/th/id/R.9f535cc8ad4b5d16704435f441b85d86?rik=FqMsiJjQP5TY5A&pid=ImgRaw&r=0">
+</p>
+
+---
 
 # Project: 0x00. MySQL Advanced | ALX Africa Intranet
 
@@ -6,20 +10,25 @@
 
 - This project, titled "0x00. MySQL advanced," is designed to enhance your proficiency in MySQL, focusing on advanced concepts and practical applications. Throughout the project, you will delve into various aspects of MySQL, such as creating tables with constraints, optimizing queries using indexes, implementing stored procedures, functions, views, and triggers in MySQL.
 
+---
+
 ## Resources
 
 To successfully navigate through this project, refer to the following resources:
 
-- [MySQL cheatsheet](Link)
-- [MySQL Performance: How To Leverage MySQL Database Indexing](Link)
-- [Stored Procedure](Link)
-- [Triggers](Link)
-- [Views Functions and Operators](Link)
-- [Trigger Syntax and Examples](Link)
-- [CREATE TABLE Statement](Link)
-- [CREATE PROCEDURE and CREATE FUNCTION Statements](Link)
-- [CREATE INDEX Statement](Link)
-- [CREATE VIEW Statement](Link)
+- [MySQL cheatsheet](https://devhints.io/mysql)
+- [MySQL Performance: How To Leverage MySQL Database Indexing](https://www.liquidweb.com/kb/mysql-optimization-how-to-leverage-mysql-database-indexing/)
+- [Stored Procedure](https://www.w3resource.com/mysql/mysql-procedure.php)
+- [Triggers](https://www.w3resource.com/mysql/mysql-triggers.php)
+- [Views](https://www.w3resource.com/mysql/mysql-views.php)
+- [Functions and Operators](https://dev.mysql.com/doc/refman/5.7/en/functions.html)
+- [Trigger Syntax and Examples](https://dev.mysql.com/doc/refman/5.7/en/trigger-syntax.html)
+- [CREATE TABLE Statement](https://dev.mysql.com/doc/refman/5.7/en/create-table.html)
+- [CREATE PROCEDURE and CREATE FUNCTION Statements](https://dev.mysql.com/doc/refman/5.7/en/create-procedure.html)
+- [CREATE INDEX Statement](https://dev.mysql.com/doc/refman/5.7/en/create-index.html)
+- [CREATE VIEW Statement](https://dev.mysql.com/doc/refman/5.7/en/create-view.html)
+
+---
 
 ## Learning Objectives
 
@@ -34,6 +43,22 @@ General
 
 ## Tasks
 
+---
+
 ## Author
 
-- More about me on: [Josh-techie](https://github.com/Josh-techie)
+- [`@Josh-techie`]() | Software Engineer Student
+
+  > Reach out to me if you need any help or have any questions.
+
+  <a href="mailto:youssef.abouyahia@e-polytechnique.ma">
+  	<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:youssef.abouyahia@e-polytechnique.ma&color=3d85c6" />
+  </a>
+  <span> | </span>
+    <a href="https://www.linkedin.com/in/youssef-abouyahia/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssef-abouyahia/" />
+    </a>
+    <span> | </span>
+    <a href="https://twitter.com/JoesephAb">
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/JoesephAb&color=1DA1F2" />
+    </a>
