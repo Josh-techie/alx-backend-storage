@@ -20,6 +20,7 @@
 
 - [0x00](./0x00-MySQL_Advanced) : MySQL_Advanced.
 - [0x01](./0x01-NoSQL) : NoSQL.
+- [0x02](./0x02-redis_basic/) : Redis basic.
 
 ---
 
