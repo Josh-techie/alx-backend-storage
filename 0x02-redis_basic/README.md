@@ -21,6 +21,30 @@
 
 ## Tasks:
 
+1. **Writing strings to Redis**
+
+   - **Task:** Create a Cache class that uses Redis for basic operations. Implement a store method to generate a random key and store data in Redis.
+   - **File:** [exercise.py](./exercise.py)
+
+2. **Reading from Redis and recovering original type**
+
+   - **Task:** Implement a get method in the Cache class that retrieves data from Redis, allowing optional conversion using a Callable argument. Also, add get_str and get_int methods for specific conversions.
+   - **File:** [exercise.py](./exercise.py)
+
+3. **Incrementing values**
+
+   - **Task:** Define a count_calls decorator to count how many times methods of the Cache class are called. Decorate the store method with count_calls and demonstrate the counting functionality.
+   - **File:** [exercise.py](./exercise.py)
+
+4. **Storing lists**
+
+   - **Task:** Implement a call_history decorator to store the history of inputs and outputs for a particular function. Decorate the store method with call_history and display the stored inputs and outputs.
+   - **File:** [exercise.py](./exercise.py)
+
+5. **Retrieving lists**
+   - **Task:** Implement a replay function to display the history of calls of a particular function using keys generated in previous tasks.
+   - **File:** [exercise.py](./exercise.py)
+
 ---
 
 ## Author
